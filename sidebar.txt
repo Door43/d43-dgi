@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dgi:home|Door43 (dgi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dgi|d43-dgi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dgi/archive/master.zip|d43-dgi.zip]]
+
+**Recent Changes**
+{{changes>ns = dgi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dgi|Ethnologue data]]
+
